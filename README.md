@@ -24,7 +24,7 @@ Sua proposta é oferecer a estudantes e professores uma ferramenta tecnológica 
 
 ## 🎯 Diferencial e inovação educacional
 
-Um dos principais diferenciais do CAMGPOL Mobile está na possibilidade de explorar visualmente o comportamento das funções matemáticas, especialmente das **funções quadráticas**.
+Um dos principais diferenciais do **CAMGPOL Mobile** está na possibilidade de explorar visualmente o comportamento das funções matemáticas, especialmente das **funções quadráticas**.
 
 Por meio da inserção de coeficientes e da utilização de controles deslizantes interativos (*sliders*), o usuário pode modificar os parâmetros de uma função e acompanhar, em tempo real, as transformações produzidas na representação gráfica da parábola.
 
@@ -39,7 +39,7 @@ Essa abordagem possibilita investigar, de maneira dinâmica e intuitiva, conceit
 
 ## 📖 Objetivos educacionais
 
-O CAMGPOL Mobile foi concebido com foco na simplicidade, usabilidade e aprendizagem móvel (*Mobile Learning*), buscando aproximar os conceitos matemáticos da experimentação prática.
+O **CAMGPOL Mobile** foi concebido com foco na simplicidade, usabilidade e aprendizagem móvel (*Mobile Learning*), buscando aproximar os conceitos matemáticos da experimentação prática.
 
 Entre seus principais objetivos, destacam-se:
 
@@ -64,7 +64,7 @@ O aplicativo oferece um conjunto de funcionalidades voltadas à exploração e �
 
 ## 🖼️ Interface do aplicativo
 
-Confira algumas telas do CAMGPOL Mobile e conheça seus recursos e funcionalidades:
+Confira algumas telas do **CAMGPOL Mobile** e conheça seus recursos e funcionalidades:
 
 <p align="center">
   <img src="Fig01.png" width="700">
@@ -81,7 +81,7 @@ Confira algumas telas do CAMGPOL Mobile e conheça seus recursos e funcionalidad
 
 ## 🎓 Aplicações educacionais
 
-O CAMGPOL Mobile foi desenvolvido como um **recurso de apoio educacional**, podendo ser utilizado tanto em atividades escolares quanto em estudos individuais.
+O **CAMGPOL Mobile** foi desenvolvido como um **recurso de apoio educacional**, podendo ser utilizado tanto em atividades escolares quanto em estudos individuais.
 
 Sua utilização pode contribuir para:
 
@@ -93,7 +93,7 @@ Sua utilização pode contribuir para:
 
 ## 📱 Aprendizagem móvel (Mobile Learning)
 
-Ao incorporar recursos interativos em um ambiente digital móvel, o CAMGPOL Mobile busca ampliar as possibilidades de acesso aos conteúdos matemáticos, proporcionando uma experiência de aprendizagem mais dinâmica, visual e participativa.
+Ao incorporar recursos interativos em um ambiente digital móvel, o **CAMGPOL Mobile** busca ampliar as possibilidades de acesso aos conteúdos matemáticos, proporcionando uma experiência de aprendizagem mais dinâmica, visual e participativa.
 
 ## 🏆 Registro de programa de computador
 
