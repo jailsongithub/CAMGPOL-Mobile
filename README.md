@@ -22,7 +22,7 @@ Para dúvidas ou contribuições, entre em contato:
 Jailson França dos Santos – jailson.santos@ufob.edu.br
 
 <p align="center">
-  <img src="Fig01.png" width="500">
+  <img src="Fig01.png" width="700">
 </p>
 
 <p align="center">
