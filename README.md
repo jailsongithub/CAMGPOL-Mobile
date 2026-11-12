@@ -101,6 +101,18 @@ O software possui registro junto ao Instituto Nacional da Propriedade Industrial
 
 **Registro nº BR512025002615-3.**
 
+## 📚 Produções relacionadas
+
+O CAMGPOL Mobile também está relacionado a produções científicas que investigam suas contribuições para o ensino e a aprendizagem da Matemática.
+
+**Referência bibliográfica:**
+
+SANTOS, Jailson França; BLASS, Leandro. **Funções Quadráticas com o Aplicativo CAMGPOL Mobile: um Estudo sob o Aporte da Engenharia Didática.** *Revista de Educação Matemática*, [s. l.], v. 25, 2026.
+
+**DOI:** [10.37001/remat25269062v25id806](https://doi.org/10.37001/remat25269062v25id806).
+
+**Disponível em:** [Acessar publicação](https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/806).
+
 ## 📩 Contato
 
 Para dúvidas, sugestões, informações ou contribuições relacionadas ao projeto, entre em contato:
