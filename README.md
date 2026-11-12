@@ -21,8 +21,8 @@ O CAMGPOL Mobile foi concebido como um recurso de apoio educacional, podendo ser
 Para dúvidas ou contribuições, entre em contato:
 Jailson França dos Santos – jailson.santos@ufob.edu.br
 
+<img src="Fig01.png" width="500">
 <p align="center">
-  <img src="Fig01.png" width="300">
   <img src="Fig02.png" width="200">
   <img src="Fig03.png" width="200">
 </p>
