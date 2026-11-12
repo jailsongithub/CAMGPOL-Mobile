@@ -17,3 +17,6 @@ Oferecer uma ferramenta digital de apoio às práticas pedagógicas.
 O CAMGPOL Mobile foi concebido como um recurso de apoio educacional, podendo ser utilizado tanto em atividades escolares quanto em estudos individuais.
 
 **Registro de programa de computador:** BR512025002615-3.
+
+Para dúvidas ou contribuições, entre em contato:
+Jailson França dos Santos – jailson.santos@ufob.edu.br
