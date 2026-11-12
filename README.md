@@ -103,15 +103,21 @@ O software possui registro junto ao Instituto Nacional da Propriedade Industrial
 
 ## 📚 Produções relacionadas
 
-O CAMGPOL Mobile também está relacionado a produções científicas que investigam suas contribuições para o ensino e a aprendizagem da Matemática.
+O desenvolvimento e a aplicação do CAMGPOL Mobile também estão associados à produção científica, contemplando estudos sobre o uso de tecnologias digitais e metodologias de ensino no contexto da Educação Matemática.
 
-**Referência bibliográfica:**
+- **Artigo 1 – Funções Quadráticas com o Aplicativo CAMGPOL Mobile: um Estudo sob o Aporte da Engenharia Didática.**
 
-SANTOS, Jailson França; BLASS, Leandro. **Funções Quadráticas com o Aplicativo CAMGPOL Mobile: um Estudo sob o Aporte da Engenharia Didática.** *Revista de Educação Matemática*, [s. l.], v. 25, 2026.
+  SANTOS, Jailson França; BLASS, Leandro. *Revista de Educação Matemática*, [s. l.], v. 25, 2026.
 
-**DOI:** [10.37001/remat25269062v25id806](https://doi.org/10.37001/remat25269062v25id806).
+  **DOI:** [10.37001/remat25269062v25id806](https://doi.org/10.37001/remat25269062v25id806).
 
-**Disponível em:** [Acessar publicação](https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/806).
+  **Publicação:** [Acessar artigo](https://www.revistasbemsp.com.br/index.php/REMat-SP/article/view/806).
+
+- **Artigo 2 – Contribuições da Engenharia Didática para o desenvolvimento de um aplicativo móvel para o ensino de Matemática.**
+
+  **Periódico:** [Matemática, Educación e Internet](https://revistas.tec.ac.cr/index.php/matematica).
+
+  <u>**Status:** Artigo aprovado e no prelo.</u>
 
 ## 📩 Contato
 
